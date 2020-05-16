@@ -1,5 +1,5 @@
 # Section 1: What is deep learning and why has it taken off?
-
+a
 Deep learning is a subset of machine learning which is itself a subset of AI. Specifically, deep learning involves the application of a particular kind of statistical model called neural networks. Neural networks are a model suitable for supervised learning, and they excel at modeling complex relationships in multi-dimensional data. While the algorithmic foundation for modern neural networks was laid in the 1970’s it has only recently become mainstream for two reasons. Lack of computational power and lack of large datasets.
 
 **By the end of this section students should be able to:**
